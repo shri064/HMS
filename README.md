@@ -7,11 +7,6 @@ Advance JAVA concepts like JSP, JSTL, Servlet, HTML, CSS, Boostrap 5, Fontawesom
 # Project View:
 Some Screenshots of this project are given below
 
-# Home Page:
-
-![1 0 Home Page_1](https://user-images.githubusercontent.com/91146041/205282972-18a37392-538a-477a-8fb5-c28636b666c4.png)
-
-
 # Admin Login:
 ![2 0 Admin Login](https://user-images.githubusercontent.com/91146041/205282991-aa2add0e-4442-4041-8535-686f324300fa.png)
 
